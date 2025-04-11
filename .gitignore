@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+!LICENSE.md
+!README.md
+
+!flake.nix
+!flake.lock
+
+!flix.toml
+!src/
+!src/*
+!test/
+!test/*
