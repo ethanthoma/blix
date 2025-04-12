@@ -1,4 +1,3 @@
-# flix
+# Blix
 
-Enter some useful information.
-
+A blob storage server written in [flix](https://flix.dev/).
